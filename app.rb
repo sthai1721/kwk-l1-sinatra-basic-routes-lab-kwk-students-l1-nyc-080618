@@ -6,7 +6,7 @@ class App < Sinatra::Base
   end
 end
 
-class App < Sinatra::Base
+class 
   get '/name' do
     "My name is Soph"
   end
